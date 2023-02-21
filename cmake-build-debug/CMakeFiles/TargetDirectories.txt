@@ -1,0 +1,3 @@
+/Users/bakhtiyor/Documents/Clion/ADVANCED/CPP_11/Features/cmake-build-debug/CMakeFiles/Features.dir
+/Users/bakhtiyor/Documents/Clion/ADVANCED/CPP_11/Features/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/bakhtiyor/Documents/Clion/ADVANCED/CPP_11/Features/cmake-build-debug/CMakeFiles/rebuild_cache.dir
